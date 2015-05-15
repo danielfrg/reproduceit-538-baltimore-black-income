@@ -1,0 +1,7 @@
+name: 538-baltimore
+dependencies:
+  - python=3.4.3=0
+  - numpy=1.9.2=py34_0
+  - pandas=0.16.0=np19py34_1
+  - bokeh=0.8.2=np19py34_0
+  - ipython-notebook=3.1.0=py34_1
